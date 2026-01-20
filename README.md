@@ -174,4 +174,8 @@ UIDAI_11297_NEXORA/
 |-------------|------|
 | [Durvesh Bhadgaonkar](https://github.com/Durvesh-dev) | Developer |
 | [Swapnil Surendra Kasare](https://github.com/MarkSpectre) | Developer |
+| [Hassaan Tole](https://github.com/HuNTer8272) | Developer |
+| [Vansh Jindam](https://github.com/Vansh940) | Developer |
+| [Sarvesh Deshmukh](https://github.com/Hacker10250) | Developer |
+
 
