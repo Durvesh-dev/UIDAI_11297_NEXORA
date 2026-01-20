@@ -175,14 +175,3 @@ UIDAI_11297_NEXORA/
 | [Durvesh Bhadgaonkar](https://github.com/Durvesh-dev) | Developer |
 | [Swapnil Surendra Kasare](https://github.com/MarkSpectre) | Developer |
 
-## 📄 License
-
-This project was developed as part of the Government Hackathon 2026.
-
----
-
-<div align="center">
-
-**Made with ❤️ for UIDAI by Team NEXORA**
-
-</div>
